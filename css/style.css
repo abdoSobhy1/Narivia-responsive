@@ -145,10 +145,10 @@ a.active {
 
 @media (max-width:768px){
     .waves {
-        margin-top: -10 px;
+        margin-top: -10px;
     }
     .waves .svg2 {
-        top: 10px;
+        top: 8px;
     }
 }
 
